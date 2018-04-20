@@ -1,5 +1,5 @@
 ---
-title: 'Vertu'
+title: 'Loi'
 date: 2018-04-20T21:02:12+02:00
 ---
 
@@ -9,7 +9,7 @@ date: 2018-04-20T21:02:12+02:00
 
 ***Références***
 
-1. Platon, <u>*Ménon*</u>
+1. Auteur, <u>*Titre*</u>
 
 ***Sujets***
 
