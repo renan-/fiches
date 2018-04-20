@@ -3,5 +3,5 @@
 	url = git@github.com:yihui/hugo-xmin.git
 [submodule "public"]
 	path = public
-	url = git@github.com:renan-/renan-.github.io.git
+	url = git@github.com:renan-strauss/renan-strauss.github.io.git
 	branch = master
