@@ -19,7 +19,7 @@ date: 2018-04-20T21:02:12+02:00
 > <u>I. Il *existe* un sens de l'histoire</u>: on constate en observant l'histoire
 >       un progrès vers l'égalité et la démocratie  
 > <u>II. Le sens de l'histoire comme *illusion*</u>: l'histoire est faite de contingences,
->        et ce sont les vainqueurs qui réinventent l'histoire à leur avantage 
+>        et ce sont les vainqueurs qui réinventent l'histoire à leur avantage  
 > <u>III. Le sens de l'histoire comme *postulat*</u>: poser l'existence d'un sens   de l'histoire
 >         peut servir de guide à notre action, par exemple pour fixer des fins à l'action
 >         politique. Cela signifie pas que l'histoire ait un sens en elle-même, mais si nous
