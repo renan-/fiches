@@ -1,0 +1,13 @@
+baseurl = "/"
+languageCode = "fr-fr"
+title = "Fiches de Philosophie"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+
+[params]
+    description = ""
+    footer = ""

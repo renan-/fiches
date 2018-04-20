@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "/css/fonts.css" | relURL }}" />
+    {{ partial "head_custom.html" . }}
+  </head>
+
+  <body>
+    <nav>
+    {{if not .IsHome}}
+      <a href="/">Index</a> <i class="arrow-right"></i>
+      {{ if ne .Parent.Title "Thèmes" }}<a href="{{.Parent.URL}}">{{.Parent.Title}}</a>
+      {{ else }}
+      {{.Parent.Title}}
+      {{end}} <i class="arrow-right"></i> {{.Title}}
+    {{else}}
+       <a href="/">Index</a>
+    {{end}}
+    <hr/>
+    </nav>

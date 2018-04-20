@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<div class="article-meta">
+<h1><span class="title">{{ .Title }}</span></h1>
+</div>
+<hr/>
+
+<main>
+{{ .Content }}
+</main>
+
+{{ partial "footer.html" . }}
