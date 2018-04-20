@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logique et épistémologie on Fiches de Philosophie</title>
+    <link>/themes/logique_epistemologie/</link>
+    <description>Recent content in Logique et épistémologie on Fiches de Philosophie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="/themes/logique_epistemologie/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Axiomatique</title>
+      <link>/themes/logique_epistemologie/axiomatique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/axiomatique/</guid>
+      <description>Définition
+ &amp;laquo; la forme achevée que prend, aujourd&amp;rsquo;hui, une théorie déductive [&amp;hellip;] : un système où sont totalement expliciteés les termes non définis et les propositions non démontrées, ces-dernières étant posées comme de simples hyopthèses à partir desquelles toutes les propositions du système peuvent se construire selon des règles logiques parfaitement et expréssement fixées. &amp;raquo; [1]
+ Exemples
+ Axiomatique de Peano pour la théorie des nombres naturels [3]    Zéro est un nombre Le successeur d&#39;un nombre est un nombre Plusieurs nombres quelconques ne peuvent avoir le même successeur Zéro n&#39;est le successeur d&#39;aucun nombre Si une propriété appartient à zéro et si, lorsqu&#39;elle appartient à un nombre quelconque, elle appartient aussi à son successeur, alors elle appartient à tous les nombres (principe d&#39;induction)   L&amp;rsquo;axiomatique de Peano met en évidence la structure formelle de la progression, dégagée de toute intuition et de toute subjectivité.</description>
+    </item>
+    
+    <item>
+      <title>Axiome</title>
+      <link>/themes/logique_epistemologie/axiome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/axiome/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+   </description>
+    </item>
+    
+    <item>
+      <title>Définition</title>
+      <link>/themes/logique_epistemologie/definition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/definition/</guid>
+      <description>Définition
+ proposition énonçant l&amp;rsquo;essence d&amp;rsquo;une chose ou la signification d&amp;rsquo;un terme
+   définition de nom    convention libre qui éclaircit et abrège le discours   non sujette à contradiction   ex. nombre pair = divisible par deux également.
+   définition de chose    donne la nature de la chose désignée par le nom   nullement libre et toujours sujette à contradiction   ex.</description>
+    </item>
+    
+    <item>
+      <title>Démonstration</title>
+      <link>/themes/logique_epistemologie/demonstration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/demonstration/</guid>
+      <description>Définition
+ type de raisonnement qui permet d&amp;rsquo;affecter une valeur de vérité à une proposition au terme d&amp;rsquo;un raisonnement rigoureux qui part de prémisses
+  différentes sortes de démonstration  raisonnement direct raisonnement indirect (par l&amp;rsquo;absurde) raisonnement contraposé raisonnement par récurrence (induction complète)  associée aux sciences logico-mathématiques, mais peut s&amp;rsquo;étendre à la physique ou à la philosophie  Références
+ Aristote, Seconds Analytiques, I, 2, 71b-72a   La démonstration est un certain type de syllogisme, qui part de prémisses absolument vraies.</description>
+    </item>
+    
+    <item>
+      <title>Expérience</title>
+      <link>/themes/logique_epistemologie/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/experience/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+ La théorie peut-elle réfuter l&amp;rsquo;expérience ?  </description>
+    </item>
+    
+    <item>
+      <title>Postulat</title>
+      <link>/themes/logique_epistemologie/postulat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/postulat/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+   </description>
+    </item>
+    
+    <item>
+      <title>Principe</title>
+      <link>/themes/logique_epistemologie/principe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/principe/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+   </description>
+    </item>
+    
+    <item>
+      <title>Syllogisme</title>
+      <link>/themes/logique_epistemologie/syllogisme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/syllogisme/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+   </description>
+    </item>
+    
+    <item>
+      <title>Système</title>
+      <link>/themes/logique_epistemologie/systeme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/systeme/</guid>
+      <description>Définition
+  Références
+ Kant, Critique de la raison pure, Théorie transcendantale de la méthode, Architectonique   &amp;laquo; [&amp;hellip;] l&amp;rsquo;unité de diverses connaissances sous une idée &amp;raquo;
+&amp;laquo; [&amp;hellip;] un système organique (articulatio) et non un ensemble désordonné (coacervatio) ; il peut [&amp;hellip;] croître par le dedans (per intussusceptionem) mais non par le dehors (per appositionem), semblable au corps de l&amp;rsquo;animal auquel la croissance n&amp;rsquo;ajoute aucun membre, mais rend, sans rien changer aux proportions, chacun des membres plus forts et plus approprié à ses fins.</description>
+    </item>
+    
+    <item>
+      <title>Théorie</title>
+      <link>/themes/logique_epistemologie/theorie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/logique_epistemologie/theorie/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+ Qu&amp;rsquo;est-ce qu&amp;rsquo;une théorie ? La théorie peut-elle réfuter l&amp;rsquo;expérience ?  </description>
+    </item>
+    
+  </channel>
+</rss>

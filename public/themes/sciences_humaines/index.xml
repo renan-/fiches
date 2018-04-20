@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sciences humaines on Fiches de Philosophie</title>
+    <link>/themes/sciences_humaines/</link>
+    <description>Recent content in Sciences humaines on Fiches de Philosophie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="/themes/sciences_humaines/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atomisme</title>
+      <link>/themes/sciences_humaines/atomisme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/atomisme/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+   </description>
+    </item>
+    
+    <item>
+      <title>Déterminisme</title>
+      <link>/themes/sciences_humaines/determinisme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/determinisme/</guid>
+      <description>Définition
+  Références
+ Auteur, Titre  Sujets
+ Sciences humaines et déterminisme  </description>
+    </item>
+    
+    <item>
+      <title>Histoire</title>
+      <link>/themes/sciences_humaines/histoire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/histoire/</guid>
+      <description>Définition
+  Références
+ Léopold Von Ranke, Titre  Sujets
+ L&amp;rsquo;histoire est-elle une science ? L&amp;rsquo;histoire a-t-elle un sens ?   I. Il existe un sens de l&amp;rsquo;histoire: on constate en observant l&amp;rsquo;histoire un progrès vers l&amp;rsquo;égalité et la démocratie
+II. Le sens de l&amp;rsquo;histoire comme illusion: l&amp;rsquo;histoire est faite de contingences, et ce sont les vainqueurs qui réinventent l&amp;rsquo;histoire à leur avantage III. Le sens de l&amp;rsquo;histoire comme postulat: poser l&amp;rsquo;existence d&amp;rsquo;un sens de l&amp;rsquo;histoire peut servir de guide à notre action, par exemple pour fixer des fins à l&amp;rsquo;action politique.</description>
+    </item>
+    
+    <item>
+      <title>Holisme</title>
+      <link>/themes/sciences_humaines/holisme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/holisme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychanalyse</title>
+      <link>/themes/sciences_humaines/psychanalyse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/psychanalyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychologie</title>
+      <link>/themes/sciences_humaines/psychologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/psychologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sociologie</title>
+      <link>/themes/sciences_humaines/sociologie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/sociologie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Économie</title>
+      <link>/themes/sciences_humaines/economie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/themes/sciences_humaines/economie/</guid>
+      <description>Définition
+  Références
+ Ricardo, Titre  Sujets
+   </description>
+    </item>
+    
+  </channel>
+</rss>
