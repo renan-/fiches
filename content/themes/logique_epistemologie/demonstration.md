@@ -22,8 +22,8 @@ date: 2018-04-20T21:02:12+02:00
 > La démonstration est un certain type de [syllogisme](../syllogisme/), qui part de prémisses 
 absolument vraies. Elle est le propre du discours scientifique, qui se veut nécessaire et universel.
 Mais tout discours scientifique n'est pas pour autant démonstratif : la connaissance des [principes](../principe/) échappe à la démonstration.  
-Ces principes ([axiome](../axiome/), [définition](../définition/) et
-[postulat](../ostulat/)) doivent être :
+Ces principes ([axiome](../axiome/), [définition](../definition/) et
+[postulat](../postulat/)) doivent être :
 <ul>
 <li> <u>absolument premiers</u> (vrais, premiers, immédiats) pour éviter toute *régression à l'infini*</li>
 <li><u>premiers relativement à la conclusion</u> (plus connus, antérieurs et causes) pour éviter toute *circularité*</li>
