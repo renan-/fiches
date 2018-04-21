@@ -9,17 +9,17 @@ date: 2018-04-20T21:02:12+02:00
 
 - <u> définition de nom </u>
 
-> convention libre qui éclaircit et abrège le discours
-> <ul>
-> <li> non sujette à contradiction </li>
-> <li> <u>ex.</u> nombre pair = divisible par deux également.
+	> convention libre qui éclaircit et abrège le discours
+	> <ul>
+	> <li> non sujette à contradiction </li>
+	> <li> <u>ex.</u> nombre pair = divisible par deux également.
 
 - <u> définition de chose </u>
 
-> donne la nature de la chose désignée par le nom
-> <ul>
-> <li> nullement libre et toujours sujette à contradiction </li>
-> <li> <u>ex.</u> le temps est la mesure du mouvement
+	> donne la nature de la chose désignée par le nom
+	> <ul>
+	> <li> nullement libre et toujours sujette à contradiction </li>
+	> <li> <u>ex.</u> le temps est la mesure du mouvement
 
 ***Références***
 

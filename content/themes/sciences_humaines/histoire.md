@@ -5,11 +5,26 @@ date: 2018-04-20T21:02:12+02:00
 
 ***Définition*** 
 
->
+> réalité passée (qui ne peut être autrement qu'elle n'est) à l'ontologie complexe 
+> (événements, productions intellectuelles, scientifiques ou artistiques,
+> faits sociaux, croyances, comportements, voire mentalités) [*Geschichte*]
+> et connaissance qu'en produit l'historien à partir de traces [*Historie*]
 
 ***Références***
 
-1. Léopold Von Ranke, <u>*Titre*</u>
+1. Hegel, <u>*Leçons sur la philosophie de l'histoire*</u>
+1. Kant, <u>*Idée d'une histoire universelle du point de vue cosmopolitique*</u>
+1. Léopold Von Ranke, <u>*Geschichten der romanischen und germanischen Völker von 1494 bis 1535*</u> et <u>*Zur Kritik der Geschichtschreiber*</u>
+
+	> 1. critique des sources
+	> 1. impartialité de l'historien
+	> 1. l'historien ne doit pas ordonner les faits selon des principes définis au préalable
+	> 1. chaque époque doit être traitée pour elle-même, et non comme une étape dans la réalisation
+	>    d'une fin plus haute ou plus universelle
+
+1. Johann Gustav Droysen, <u>*Précis de théorie de l’histoire*</u>
+1. Gabriel Monod, &laquo; Du progrès des études historiques en France depuis le XVIème siècle &raquo;,
+   <u>*Revue historique*</u>, 1876
 
 ***Sujets***
 
@@ -29,4 +44,4 @@ date: 2018-04-20T21:02:12+02:00
 - Une histoire universelle est-elle possible ?
 - Connaissance historique et réalité historique
 - Histoire et mémoire
-- Le juge et l'histoire
+- Le juge et l'historien

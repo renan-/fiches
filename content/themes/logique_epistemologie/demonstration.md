@@ -17,26 +17,26 @@ date: 2018-04-20T21:02:12+02:00
 
 ***Références***
 
-* Aristote, <u>*Seconds Analytiques*</u>, I, 2, 71b-72a
+1. Aristote, <u>*Seconds Analytiques*</u>, I, 2, 71b-72a
 
-> La démonstration est un certain type de [syllogisme](../syllogisme/), qui part de prémisses 
-absolument vraies. Elle est le propre du discours scientifique, qui se veut nécessaire et universel.
-Mais tout discours scientifique n'est pas pour autant démonstratif : la connaissance des [principes](../principe/) échappe à la démonstration.  
-Ces principes ([axiome](../axiome/), [définition](../definition/) et
-[postulat](../postulat/)) doivent être :
-<ul>
-<li> <u>absolument premiers</u> (vrais, premiers, immédiats) pour éviter toute *régression à l'infini*</li>
-<li><u>premiers relativement à la conclusion</u> (plus connus, antérieurs et causes) pour éviter toute *circularité*</li>
-<li><u>appropriés à la conclusion</u></li>
-</ul>
-**La démonstration n'est pas seulement un raisonnement logiquement valide mais a pour fonction
-de transmettre la vérité des principes à la conclusion.**
+	> La démonstration est un certain type de [syllogisme](../syllogisme/), qui part de prémisses 
+	absolument vraies. Elle est le propre du discours scientifique, qui se veut nécessaire et universel.
+	Mais tout discours scientifique n'est pas pour autant démonstratif : la connaissance des [principes](../principe/) échappe à la démonstration.  
+	Ces principes ([axiome](../axiome/), [définition](../definition/) et
+	[postulat](../postulat/)) doivent être :
+	<ul>
+	<li> <u>absolument premiers</u> (vrais, premiers, immédiats) pour éviter toute *régression à l'infini*</li>
+	<li><u>premiers relativement à la conclusion</u> (plus connus, antérieurs et causes) pour éviter toute *circularité*</li>
+	<li><u>appropriés à la conclusion</u></li>
+	</ul>
+	**La démonstration n'est pas seulement un raisonnement logiquement valide mais a pour fonction
+	de transmettre la vérité des principes à la conclusion.**
 
-* Descartes, <u>*Regulae ad directionem ingenii*</u>
+1. Descartes, <u>*Regulae ad directionem ingenii*</u>
 
-* Pascal, <u>*De l'esprit géométrique*</u>
+1. Pascal, <u>*De l'esprit géométrique*</u>
 
-* Blanché, <u>*L'axiomatique*</u>
+1. Blanché, <u>*L'axiomatique*</u>
 
 ***Sujets***
 
