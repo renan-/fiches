@@ -11,3 +11,7 @@ i.arrow-right {
 a {
 	color: #000000;
 }
+
+a:hover {
+	background: #D7C1A5;
+}
