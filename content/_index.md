@@ -1,11 +1,7 @@
 ---
-title: 'Fiches thématiques'
+title: 'Fiches'
 date: 2018-04-20T21:02:12+02:00
 ---
 
-* [Métaphysique](themes/metaphysique/)
-* [Morale](themes/morale/)
-* [Politique](themes/politique/)
-* [Logique et épistémologie](themes/logique_epistemologie/)
-* [Esthétique](themes/esthetique/)
-* [Sciences humaines](themes/sciences_humaines/)
+* [Monographiques](auteurs/)
+* [Thématiques](themes/)

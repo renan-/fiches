@@ -11,14 +11,20 @@
 
   <body>
     <nav>
-    {{if not .IsHome}}
-      <a href="/">Index</a> <i class="arrow-right"></i>
-      {{ if ne .Parent.Title "Thèmes" }}<a href="{{.Parent.URL}}">{{.Parent.Title}}</a>
-      {{ else }}
-      {{.Parent.Title}}
-      {{end}} <i class="arrow-right"></i> {{.Title}}
-    {{else}}
-       <a href="/">Index</a>
-    {{end}}
+    {{ if not .IsHome }}
+      <a href="/">Fiches</a>
+      {{ if not .Parent.IsHome }}
+        {{ if ne .Parent.Parent.Title "Fiches" }}
+        <i class="arrow-right"></i>
+        <a href="{{.Parent.Parent.URL}}">{{.Parent.Parent.Title}}</a>
+        {{ end }}
+      {{ end }}
+      {{ if ne .Parent.Title "Fiches" }}
+        <i class="arrow-right"></i>
+        <a href="{{.Parent.URL}}">{{.Parent.Title}}</a>
+      {{ end }}
+      <i class="arrow-right"></i>
+      {{ .Title }}
+    {{ end }}
     <hr/>
     </nav>

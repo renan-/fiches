@@ -5,16 +5,18 @@
 </div>
 <hr/>
 
-{{if not .IsHome}}
+<main>
+{{ .Content }}
+</main>
+
+{{ if and (not .IsHome) (ne .Title "Thèmes") }}
 <ul>
-  {{ range (where .Data.Pages "Section" "!=" "") }}
+  {{ range (where .Data.Pages.ByTitle "Section" "!=" "") }}
   <li>
     <a href="{{ .URL }}">{{ .Title }}</a>
   </li>
   {{ end }}
 </ul>
-{{else}}
-{{ .Content }}
-{{end}}
+{{ end }}
 
 {{ partial "footer.html" . }}
