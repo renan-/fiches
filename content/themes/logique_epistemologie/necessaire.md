@@ -1,6 +1,6 @@
 ---
-title: 'Savoir'
-date: 2018-06-07T14:43:02+02:00
+title: 'Nécessaire'
+date: 2018-04-24T11:27:02+02:00
 ---
 
 ***Définition*** 
@@ -13,4 +13,4 @@ date: 2018-06-07T14:43:02+02:00
 
 ***Sujets***
 
-- Savoir, est-ce cesser de croire ?
+- 

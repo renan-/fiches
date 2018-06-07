@@ -1,6 +1,6 @@
 ---
-title: 'Savoir'
-date: 2018-06-07T14:43:02+02:00
+title: 'Sujet'
+date: 2018-06-07T15:02:47+02:00
 ---
 
 ***Définition*** 
@@ -13,4 +13,4 @@ date: 2018-06-07T14:43:02+02:00
 
 ***Sujets***
 
-- Savoir, est-ce cesser de croire ?
+- 

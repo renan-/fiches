@@ -1,6 +1,6 @@
 ---
-title: 'Savoir'
-date: 2018-06-07T14:43:02+02:00
+title: 'Dialectique'
+date: 2018-06-07T15:05:13+02:00
 ---
 
 ***Définition*** 
@@ -13,4 +13,4 @@ date: 2018-06-07T14:43:02+02:00
 
 ***Sujets***
 
-- Savoir, est-ce cesser de croire ?
+- 
