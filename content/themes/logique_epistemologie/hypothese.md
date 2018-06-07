@@ -13,4 +13,4 @@ date: 2018-04-24T11:22:47+02:00
 
 ***Sujets***
 
-- 
+- Comment choisir entre plusieurs hypothèses ?

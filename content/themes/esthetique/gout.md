@@ -13,4 +13,6 @@ date: 2018-06-07T14:43:40+02:00
 
 ***Sujets***
 
-- 
+- L'éducation esthétique
+- Le mauvais goût
+

@@ -13,4 +13,5 @@ date: 2018-04-20T21:02:12+02:00
 
 ***Sujets***
 
-- 
+- L'efficacité thérapeutique de la psychanalyse
+- La psychanalyse est-elle une science ?

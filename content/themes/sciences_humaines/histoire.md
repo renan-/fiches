@@ -45,3 +45,6 @@ date: 2018-04-20T21:02:12+02:00
 - Connaissance historique et réalité historique
 - Histoire et mémoire
 - Le juge et l'historien
+- Histoire et ethnologie
+- Y a-t-il une causalité historique ?
+- L'objectivité de l'historien

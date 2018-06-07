@@ -13,4 +13,4 @@ date: 2018-06-07T14:43:46+02:00
 
 ***Sujets***
 
-- 
+- Le plaisir esthétique suppose-t-il une culture ?

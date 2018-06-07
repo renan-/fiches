@@ -13,4 +13,4 @@ date: 2018-06-07T14:46:06+02:00
 
 ***Sujets***
 
-- 
+- Peut-on conclure de l'être au devoir-être ?

@@ -13,4 +13,4 @@ date: 2018-04-24T14:47:33+02:00
 
 ***Sujets***
 
-- 
+- La logique nous apprend-t-elle quelque chose sur le langage ordinaire ?

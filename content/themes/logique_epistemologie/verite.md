@@ -20,3 +20,4 @@ date: 2018-04-24T14:44:56+02:00
 
 - La recherche de la vérité
 - Y a-t-il des vérités éternelles ?
+- La cohérence est-elle un critère de vérité ?

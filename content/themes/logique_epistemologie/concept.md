@@ -9,7 +9,8 @@ date: 2018-06-07T15:18:49+02:00
 
 ***Références***
 
-1. Auteur, <u>*Titre*</u>
+1. Kant, <u>*Critique de la raison pure*</u>
+1. Frege, <u>*Fonction et concept*</u>
 
 ***Sujets***
 
