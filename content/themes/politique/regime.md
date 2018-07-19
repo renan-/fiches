@@ -1,5 +1,5 @@
 ---
-title: 'Regime'
+title: 'Régime'
 date: 2018-06-07T14:46:47+02:00
 ---
 

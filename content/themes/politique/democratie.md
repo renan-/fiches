@@ -1,5 +1,5 @@
 ---
-title: 'Democratie'
+title: 'Démocratie'
 date: 2018-06-07T14:46:50+02:00
 ---
 
