@@ -1,5 +1,5 @@
 ---
-title: 'Societe'
+title: 'Société'
 date: 2018-04-24T14:49:10+02:00
 ---
 

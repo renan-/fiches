@@ -1,5 +1,5 @@
 ---
-title: 'Consequentialisme'
+title: 'Conséquentialisme'
 date: 2018-06-07T14:45:44+02:00
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'Deontologie'
+title: 'Déontologie'
 date: 2018-06-07T14:45:56+02:00
 ---
 

@@ -9,7 +9,7 @@ date: 2018-04-24T14:49:27+02:00
 
 ***Références***
 
-1. Auteur, <u>*Titre*</u>
+1. Aristote, <u>*Éthique à Nicomaque*</u>
 
 ***Sujets***
 

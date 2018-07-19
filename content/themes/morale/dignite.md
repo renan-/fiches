@@ -1,5 +1,5 @@
 ---
-title: 'Dignite'
+title: 'Dignité'
 date: 2018-06-07T14:46:17+02:00
 ---
 
