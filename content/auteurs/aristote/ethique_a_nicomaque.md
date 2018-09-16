@@ -3,6 +3,11 @@ title: "Éthique à Nicomaque"
 date: 2018-07-19T10:41:12+02:00
 ---
 
+> La philosophie morale vise non seulement à donner aux hommes des croyances vraies sur ce qu'ils doivent rechercher
+> et fuir, mais à faire en sorte qu'ils le recherchent et le fuient vraiment.
+>
+> *Philosophie grecque*, M. Canto-Sperber, Aristote, "La philosophie morale", p.407
+
 1. <u>Théorie du bien et du bonheur</u>
 
 	Le bien est "l'objet de tous les voeux", aussi bien dans les arts, les recherches méthodiques que dans les actes
