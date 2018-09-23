@@ -100,12 +100,98 @@ date: 2018-07-19T10:41:12+02:00
 		**Ainsi, tout en ayant connaissance de la règle générale, l'intempérant l'enfreint néanmoins car
 		la proposition particulière qui a trait à la perception attise en lui un désir contraire à la
 		règle générale. S'expliquent alors le comportement du cancérologue qui fume trois paquets de
-		cigarettes par jour comme celui de l'obèse qui ne résiste pas aux sucreries et de l'homme intempérant
-		en général.**
+		cigarettes par jour: il fume tout en sachant qu'il faut fuir ce qui donne le cancer et que
+		la cigarette donne le cancer.**
+
+	1. Reprise de la question 3.2: est-il possible de dire d'une manière absolue que quelqu'un est intempérant ?
+		Ou bien tous ceux qui le sont, ne le sont-ils pas toujours d'une manière relative et particulière ? Et si
+		l'on peut être absolument intempérant, quels sont les objets auxquels s'applique l'intempérance ainsi 
+		entendue ? (§1)
+
+		Il semble y avoir plusieurs sortes d'intempérance, qui se différencient selon leur objet et n'entretiennent donc entre elles qu'un rapport d'analogie. (§3)
+
+		La première sorte d'intempérance (intempérance *simpliciter*) a rapport aux mêmes plaisirs et aux mêmes peines que celles du dissolu ou du débauché, c'est-à-dire aux plaisirs et aux peines corporels dans la sphère de nos besoins élémentaires. (§4-5)
+
+		La seconde sorte d'intempérance (intempérance *secundum quid*) s'étend par analogie à des plaisirs
+		indifférents ou bons en eux-mêmes mais susceptibles d'excès (profit, gloire, honneur, amour paternel, etc.). (§6)
+
+	1. Toujours par analogie, l'intempérance *secundum quid* peut être ou bestiale ou maladive, c'est-à-dire
+		tenir à une nature profondément bestiale ou à une pathologie psychique.
+
+		L'intempérance et la tempérance ne s'appliquent qu'aux choses auxquelles s'appliquent aussi les idées
+		de débauche et de sobriété (*sophrosúnê*). Les autres emplois de ces termes sont purement métaphoriques.
+		Tempérance et intempérance sont donc essentiellement *simpliciter*.
+
+	1. Il est moins honteux ou choquant de se laisser emporter par intempérance à la colère que de se laisser
+		dominer par ses appétits car la colère porte avec elle une certaine rationalité (dont elle procède) alors que l'appétit n'a aucun rapport avec la raison et s'élance à la jouissance dès que la sensibilité ou la raison lui dit que tel objet est agréable. Autrement dit, on peut avoir des raisons de se mettre
+		en colère même si ce n'est pas là le comportement approprié mais on n'a aucune raison de se laisser guider aveuglément par ses appétits, si ce n'est la débauche.
+
+	1. L'intempérance se distingue tout d'abord de la **débauche** parce que le débauché poursuit mauvais actes
+		et excès par un choix délibéré et sans forcément y être poussé par des passions fortes, alors que l'intempérant cède à la force de ses passions, tout en sachant qu'il ne le devrait pas.
+
+		L'intempérance se distingue ensuite de la **molesse** dans la mesure où elle se rapporte aux plaisirs 	
+		alors que la molesse se rapporte aux peines. L'intempérant succombe ainsi aux tentations 
+		de plaisirs auxquelles tout homme doit être capable de résister alors que la molesse est impuissante
+		à endurer des peines que même le vulgaire supporte aisément.
+
+		- intempérance / tempérance : plaisirs
+		- molesse / fermeté : peines
+
+		Mais la tempérance est préférable à la fermeté, puisqu'elle domine et triomphe des passions contraires
+		là où la fermeté ne fait qu'y résister pour ne pas être vaincue par elles.
+
+	1. Il s'ensuit que l'intempérance ne peut pas s'ignorer, contrairement à la débauche. L'intempérant est donc
+		susceptible de regretter ses actes et n'est en ce sens sujet qu'à un mal intermittent, alors que le
+		débauché est incurable, puisqu'il n'est pas sujet au repentir dans la mesure où il persiste dans son état par son libre choix.
+
+		> tous les deux poursuivent les plaisirs du corps ;
+		> l'un s'y livre en pensant qu'il faut s'y livrer, et l'autre en pensant qu'il ne le faut pas
+		> (Ch. 9, §8)
+
+		Analogie mathématiques / pratique : ce n'est pas le raisonnement qui nous instruit des principes, mais
+		c'est une vertu, naturelle ou acquise par l'habitude, qui nous procure une opinion correcte au sujet
+		des principes.
+
+	1. L'homme tempérant et maître de soi est-il :
+		1. celui qui obéit à une raison quelconque et persévère dans la résolution qu'il a prise,
+		  quelle que soit cette résolution ?
+		1. l'homme qui obéit à la droite raison ?
+		1. celui qui accidentellement peut bien s'en tenir
+		   à une raison quelconque mais qui essentiellement ne s'en tient qu'à la vraie raison et à la droite
+		   décision ?
+
+		De la même manière, l'homme intempérant est-il :
+		
+		1. celui que ne s'en tient pas à la résolution ou au raisonnement quelconque qu'il a fait ?
+		1. celui qui s'en tient à une résolution fausse ou à une mauvaise résolution  ?
+		1. celui qui ne sait pas s'en tenir fermement à la raison véritable et à la saine résolution ?
+
+		L'homme (1) semble plutôt s'identifier à l'entêté qu'au tempérant.
+		L'homme (2) est trop "rigide" pour s'identifer à l'homme tempérant : d'une part ce-dernier doit parfois
+		savoir céder à des nobles plaisirs et, d'autre part, les plaisirs corporels ne doivent pas
+		non plus être recherchés moins qu'il le faut, mais dans la juste mesure.
+
+		L'*homme tempérant* est donc ***celui qui accidentellement peut bien s'en tenir
+		à une raison quelconque mais qui essentiellement ne s'en tient qu'à la vraie raison et à la droite
+		décision*** et l'*homme intémpérant* ***celui qui ne sait pas s'en tenir fermement à la raison véritable et à la saine résolution***.
+
+	1. Prudence et intempérance sont incompatibles puisque la prudence consiste justement non seulement à
+		savoir ce qu'on doit faire mais encore et surtout à agir et pratiquer.
+		L'intempérance peut néanmoins passer pour de la prudence alors qu'elle n'est qu'une forme d'habileté.
+
+		***On peut comparer l'intempérant à l'État qui décrète de bonnes lois sans pour autant les appliquer.***
+
+		Et ce peut être par nature ou par habitude que l'on est intémpérant. Or l'habitude, s'il est plus facile
+		à changer que la nature, peut néanmoins développer en nous une second nature dont il est difficile
+		de se défaire. D'où le mot d'Événus :
+
+		> Le goût, mon cher ami, quand trop longtemps il dure,
+		>
+		> Peut bien finir en nous par être la nature.
 
 	1.
 
-
+ 
 1. <u>Théorie de l'amitié</u>
 
 1. <u>Théorie de l'amitié (suite)</u>
