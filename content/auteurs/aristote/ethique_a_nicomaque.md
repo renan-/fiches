@@ -53,6 +53,59 @@ date: 2018-07-19T10:41:12+02:00
 
 1. <u>Théorie de l'intempérance et du plaisir</u>
 
+	1. Considérations générales et opinions communes quant aux trois écueils à éviter :
+	*vice*, *intempérance*, *bestialité* (dont les contraires sont la vertu, la tempérance
+	et une vertu surhumaine, héroïque et divine)
+
+	1. Comment est-il possible qu'un homme, tout en jugeant sainement de ce qu'il fait, se laisse
+	emporter jusqu'à l'intempérance ? C'est impossible pour Socrate, selon lequel l'intempérance
+	est en elle-même impossible, puisque l'intempérant ne peut savoir au juste ce qu'il fait (§1)
+	Or l'intellectualisme socratique ne semble pas rendre compte des faits (§2).
+	S'ensuit une série d'apories :
+		- le sage ne saurait être tempérant puisque la tempérance suppose des appétits violents
+		  et mauvais, contre lesquels elle lute
+		- la tempérance peut être mauvaise si elle nous borne à des opinions fausses ou à de
+		  mauvaises résolutions
+		- l'intempérance mêlée à la déraison peut être à l'inverse considérée comme une vertu
+
+	1. Différentes question se posent alors:
+		1. l'intempérant sait-il ou non ce qu'il fait ? et s'il le sait, comment le sait-il ? (§1)
+		1. relativement à quoi peut-on être tempérant ou intempérant ? relativement à
+		  toute espèce de plaisir, à toute espèce de peine ? ou bien à quelques plaisirs,
+		  quelques peines déterminés ? (§1)
+		1. la tempérance qui maîtrise les passions et la fermeté qui sait tout souffrir avec
+		  constance sont-elles une seule et même chose ? ou bien des choses différentes ? (§1)
+		1. l'homme tempérant et l'homme intempérant diffèrent-ils entre eux par leurs actes seulement
+		   ou surtout par la disposition où ils sont en agissant ? autrement dit, l'intempérant
+		   est-il intempérant uniquement parce qu'il fait certains actes, ou ne l'est-il pas
+		   plutôt par la manière dont il les fait ? sinon, l'intempérant n'est-il intempérant
+		   par ces deux motifs réunis ? (§2)
+	
+		L'homme qu'on appelle intempérant d'une manière générale l'est seulement pour les choses
+		qui éveillent les passions du *débauché* (réponse à la question 2)
+
+		<u>Réponse à la question 1</u> (§2-15)
+
+		Les raisonnements qui déterminent nos actions se composent de deux sortes
+		de propositions : générales (prémisses majeures) ou particulières (prémisses mineures).
+		Les prémisses générales ou universelles portent sur les fins générales de l'action
+		(*eg.* "Il ne faut pas goûter au plaisir") alors que les prémisses particulières ont trait
+		aux faits particuliers pour lesquelles la perception est maîtresse (*eg.* "telle chose
+		spéciale et particulière est douce"). Il peut alors se faire que, bien qu'ayant dans l'esprit 
+		la règle universelle nous empêchant de faire une chose, la prémisse mineure, l'opinion, 
+		nous fasse voir le plaisir à faire telle ou telle chose. L'exemple que prend Aristote est le suivant : supposons que nous ayons dans l'esprit une pensée générale nous empêchant de goûter au plaisir ainsi qu'une autre nous disant que "tout ce qui est doux est agréable à goûter" ; à ces deux pensées vient s'ajouter la proposition particulière qui nous dit que telle chose qui est sous nos yeux est douce. Se créé alors un conflit entre la partie rationnelle de l'âme, qui conclut qu'il faut fuire l'objet, et sa
+		partie irrationnelle désirante, qui nous meut dans un sens contraire. C'est alors bien l'opinion
+		de la proposition particulière qui, attisant le désir, s'oppose à la règle édictée par la raison.
+		
+		**Ainsi, tout en ayant connaissance de la règle générale, l'intempérant l'enfreint néanmoins car
+		la proposition particulière qui a trait à la perception attise en lui un désir contraire à la
+		règle générale. S'expliquent alors le comportement du cancérologue qui fume trois paquets de
+		cigarettes par jour comme celui de l'obèse qui ne résiste pas aux sucreries et de l'homme intempérant
+		en général.**
+
+	1.
+
+
 1. <u>Théorie de l'amitié</u>
 
 1. <u>Théorie de l'amitié (suite)</u>
