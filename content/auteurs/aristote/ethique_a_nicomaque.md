@@ -99,7 +99,7 @@ date: 2018-07-19T10:41:12+02:00
 		
 		**Ainsi, tout en ayant connaissance de la règle générale, l'intempérant l'enfreint néanmoins car
 		la proposition particulière qui a trait à la perception attise en lui un désir contraire à la
-		règle générale. S'expliquent alors le comportement du cancérologue qui fume trois paquets de
+		règle générale. S'explique alors le comportement du cancérologue qui fume trois paquets de
 		cigarettes par jour: il fume tout en sachant qu'il faut fuir ce qui donne le cancer et que
 		la cigarette donne le cancer.**
 
