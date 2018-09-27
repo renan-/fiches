@@ -60,7 +60,8 @@ date: 2018-07-19T10:41:12+02:00
 	1. Comment est-il possible qu'un homme, tout en jugeant sainement de ce qu'il fait, se laisse
 	emporter jusqu'à l'intempérance ? C'est impossible pour Socrate, selon lequel l'intempérance
 	est en elle-même impossible, puisque l'intempérant ne peut savoir au juste ce qu'il fait (§1)
-	Or l'intellectualisme socratique ne semble pas rendre compte des faits (§2).
+	Or l'intellectualisme socratique ne semble pas rendre compte des faits (§2). C'est là une 
+	réponse au *Protagoras* de Platon.
 	S'ensuit une série d'apories :
 		- le sage ne saurait être tempérant puisque la tempérance suppose des appétits violents
 		  et mauvais, contre lesquels elle lute

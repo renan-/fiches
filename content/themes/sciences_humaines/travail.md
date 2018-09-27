@@ -3,21 +3,66 @@ title: 'Travail'
 date: 2018-04-24T14:46:17+02:00
 ---
 
-***Définition*** 
+***Définition***
 
-> activité humaine consistant à détourner les processus naturels
-> (y compris son propre corps, ou son esprit), à les transformer
-> pour les mettre au service de l'homme
+- <u>Différentes acceptions</u>
 
-- s'oppose au jeu et au loisir : d'un côté une activité pénible et sérieuse,
-  de l'autre le repos ou une activité agréable
-- on peut distinguer travail et capital : Marx appelle "capital" l'ensemble
-  des moyens de production (terres, machines, actions financières, etc.) et "travail"
-  l'ensemble des travailleurs
-- on peut parler du travail de certains animaux, mais la technique est
-  (à quelques exceptions près) proprement humaine
+	> - action de transformer ou de façonner un matériau brut
+	> (travail artisanal sur la pierre ou de l'écrivain sur la langue)
+	> - résultat de cette activité ([oeuvre](../oeuvre) produite)
+	> - profession au sein de laquelle cette même activité s'exerce
+	> (*perdre son travail*)
+	> - grandeur mesurée par le physicien (quantifiable, le travail
+	> d'une machine s'exprime en joules)
+	> - tourment et peine (*être travaillé par une idée* ou
+	> *entrer en travail*, c'est-à-dire commencer à éprouver
+	> les douleurs de l'enfantement)
+
+	À distinguer d'une part des occupations comme la chasse et la cueillette,
+	qui ne sont pas des activités *productrices* et, d'autre part, des activités
+	ludiques, puisque les jeux ne visent pas non plus à *produire* des oeuvres
+	mais à procurer le délassement.
+
+	Tout travail implique l'usage d'outils et donc l'usage de certains
+	[*moyens techniques*](../technique).
+
+- <u>Étymologie</u>
+
+	> Du latin populaire *tripaliare* qui signifie littéralement
+	> "tourmententer, torturer avec le *trepalium*" (*trepalium*
+	> désigne un outil de torture)
+
+	L'étymologie témoigne donc du fait que le travail est souvent 
+	envisagé comme une activité impliquant une certaine violence.
+
+<hr />
+
+- <u>Niveau terminale</u> 
+
+	> activité humaine consistant à détourner les processus naturels
+	> (y compris son propre corps, ou son esprit), à les transformer
+	> pour les mettre au service de l'homme
+
+	- s'oppose au jeu et au loisir : d'un côté une activité pénible et sérieuse,
+	  de l'autre le repos ou une activité agréable
+	- on peut distinguer travail et capital : Marx appelle "capital" l'ensemble
+	  des moyens de production (terres, machines, actions financières, etc.) et "travail"
+	  l'ensemble des travailleurs
+	- on peut parler du travail de certains animaux, mais la technique est
+	  (à quelques exceptions près) proprement humaine
 
 ***Références***
+
+1. *Ancien Testament*, Genèse 3, 17-24
+
+	***Le travail comme punition divine***
+
+	Le chapitre 3 de la Genèse, premier livre de l'*Ancien Testament*, retrace l'épisode
+	de la "chute" des premiers hommes : Adam et Ève, c'est-à-dire leur expulsion du
+	Jardin d'Éden, séjour bienheureux où ils jouissaient de la vie éternelle --- des fruits
+	de l'arbre de la vie. Pour avoir désobéi à l'ordre qui leur avait été intimé de ne pas
+	goûter aux fruits de l'arbre de la connaissance du bien et du mal, Dieu leur ôte la vie
+	éternelle et les chasse dans un monde inhospitalier : notre monde.
 
 1. Platon, <u>*République*</u>, II, 369b-370c
 
@@ -27,6 +72,14 @@ date: 2018-04-24T14:46:17+02:00
 	aptitudes, assure une satisfaction rationnelle des besoins primaires.
 	C'est cette exigence rationnelle qui est à l'origine de la cité.
 
+1. Saint Paul, "Épître aux Thessaloniciens", <u>*Bible de Jérusalem*</u>, III, 6-10
+
+	***La valeur morale du travail***
+
+	L'Épître écrite par saint Paul à l'attention de la communauté chrétienne de
+	Thessalonique fait partie du Nouveau Testament. Elle constitue l'un des premiers
+	textes de l'Antiquité qui confère une valeur morale au travail.
+
 1. Locke, <u>*Traité du gouvernement civil*</u>, chapitre 5, §27 (1690) 
 
 	***Travail et propriété***
@@ -35,13 +88,21 @@ date: 2018-04-24T14:46:17+02:00
 	par son propre effort. Le travail est donc au fondement du droit de propriété, sous
 	le contrôle de la loi naturelle.
 
-1. Smith, <u>*Recherches sur la nature et les causes de la richesse des nations*</u>, I, chapitre 5 (1776)
+1. Smith, <u>*Recherches sur la nature et les causes de la richesse des nations*</u>, I, chapitre 1 : "De la Division du travail" (1776)
+
+	***La division du travail***
+
+	Adam Smith est considéré comme le fondateur de la science économique classique. Dans les
+	premiers chapitres de son oeuvre maîtresse, Smith étudie les mécanismes de la divison du
+	travail. Il montre qu'un tel processus repose sur l'existence d'un marché qui s'équilibre
+	naturellement par le jeu des échanges entre individus. C'est dans ce contexte qu'il aborde
+	la question de la mécanisation du travail.
+
+1. Smith, <u>*Ibid.*</u>, I, chapitre 5 (1776)
 
 	***Valeur et travail***
 
-	Adam Smith, théoricien de l'économie, s'interroge sur la valeur des choses au point de vue
-	économique, dont le prix est normalement l'expression. Il caractérise cette valeur par la
-	capacité d'une chose d'être échangée contre une certaine quantité de travail.
+	Smith s'interroge sur la valeur des choses au point de vue économique, dont le prix est normalement l'expression. Il caractérise cette valeur par la capacité d'une chose d'être échangée contre une certaine quantité de travail.
 
 	> En 1766, lors d'un voyage en France, Smith rencontre l'économiste Quesnay,
 	> qui définit la richesse par le travail de la terre. Smith, qui est né
@@ -100,7 +161,7 @@ date: 2018-04-24T14:46:17+02:00
 	du long. Le travail des hommes se distingue ainsi de l'activité par laquelle l'animal
 	satisfait ses besoins.
 
-1. Nietzsche, <u>*Aurore*</u>, Livre III, §173
+1. Nietzsche, <u>*Aurore*</u>, Livre III, §173 (1881)
 
 	***"Les apologistes du travail"***
 
@@ -113,6 +174,21 @@ date: 2018-04-24T14:46:17+02:00
 	> de sens: le modèle prépondérant du travail n'est plus individuel et artisanal,
 	> mais collectif, fragmenté, répétitif, producteur d'objets identiques en nombre
 	> indéfini.
+
+1. Durkheim, <u>*De la division du travail social*</u>, Livre Premier : "La fonction de la division du travail", chapitre III : "La solidarité due à la division du travail ou organique", §4 : Conclusio
+
+	***La division du travail créé une solidarité sociale organique***
+
+	Dans sa première oeuvre majeure, le sociologue distingue deux formes de solidarité sociale :
+	la solidarité mécanique et la solidarité organique. La première se réalise par une assimilation
+	des consciences individuelles à la conscience sociale, tandis que la deuxième se s'effectue
+	par la division du travail à l'échelle de la société toute entière.
+
+	> - "[...]  d'une part, chacun dépend d'autant plus étroitement de la société que le travail
+	> est plus divisé, et, d'autre part, l'activité de chacun est d'autant plus personnelle
+	> qu'elle est plus spécialisée."
+	> - "[...] l'unité de l'organisme est d'autant plus grande que cette individualisation des
+	> parties est plus marquée."
 
 1. Freud, <u>*Le Malaise dans la culture*</u> (1930)
 
