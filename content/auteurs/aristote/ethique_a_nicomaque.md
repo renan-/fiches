@@ -66,7 +66,7 @@ date: 2018-07-19T10:41:12+02:00
 	réponse au *Protagoras* de Platon.
 	S'ensuit une série d'apories (méthode diaporématique) :
 		- le sage ne saurait être tempérant puisque la tempérance suppose des appétits violents
-		  et mauvais, contre lesquels elle lute
+		  et mauvais, contre lesquels elle lutte
 		- la tempérance peut être mauvaise si elle nous borne à des opinions fausses ou à de
 		  mauvaises résolutions
 		- l'intempérance mêlée à la déraison peut être à l'inverse considérée comme une vertu
