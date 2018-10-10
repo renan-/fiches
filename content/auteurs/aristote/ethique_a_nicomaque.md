@@ -55,14 +55,16 @@ date: 2018-07-19T10:41:12+02:00
 
 	1. Considérations générales et opinions communes quant aux trois écueils à éviter :
 	*vice*, *intempérance*, *bestialité* (dont les contraires sont la vertu, la tempérance
-	et une vertu surhumaine, héroïque et divine)
+	et une vertu surhumaine, héroïque et divine). Entre les pôles de l'inatteignable perfection
+	divine de la bestialité se dessine une échelle, sur laquelle se distribuent vices et vertus,
+	intempérance et tempérance.
 
 	1. Comment est-il possible qu'un homme, tout en jugeant sainement de ce qu'il fait, se laisse
 	emporter jusqu'à l'intempérance ? C'est impossible pour Socrate, selon lequel l'intempérance
 	est en elle-même impossible, puisque l'intempérant ne peut savoir au juste ce qu'il fait (§1)
 	Or l'intellectualisme socratique ne semble pas rendre compte des faits (§2). C'est là une 
 	réponse au *Protagoras* de Platon.
-	S'ensuit une série d'apories :
+	S'ensuit une série d'apories (méthode diaporématique) :
 		- le sage ne saurait être tempérant puisque la tempérance suppose des appétits violents
 		  et mauvais, contre lesquels elle lute
 		- la tempérance peut être mauvaise si elle nous borne à des opinions fausses ou à de
@@ -138,6 +140,8 @@ date: 2018-07-19T10:41:12+02:00
 		- intempérance / tempérance : plaisirs
 		- molesse / fermeté : peines
 
+		<u>Réponse à la question 3.3</u>
+
 		Mais la tempérance est préférable à la fermeté, puisqu'elle domine et triomphe des passions contraires
 		là où la fermeté ne fait qu'y résister pour ne pas être vaincue par elles.
 
@@ -171,6 +175,8 @@ date: 2018-07-19T10:41:12+02:00
 		L'homme (2) est trop "rigide" pour s'identifer à l'homme tempérant : d'une part ce-dernier doit parfois
 		savoir céder à des nobles plaisirs et, d'autre part, les plaisirs corporels ne doivent pas
 		non plus être recherchés moins qu'il le faut, mais dans la juste mesure.
+
+		<u>Réponse à la question 3.4</u>
 
 		L'*homme tempérant* est donc ***celui qui accidentellement peut bien s'en tenir
 		à une raison quelconque mais qui essentiellement ne s'en tient qu'à la vraie raison et à la droite
