@@ -89,16 +89,24 @@ date: 2018-07-19T10:41:12+02:00
 
 		<u>Réponse à la question 1</u> (§2-15)
 
-		Les raisonnements qui déterminent nos actions se composent de deux sortes
+		L'opinion et le savoir ont un effet motivationnel identique et la possession de l'une ou de
+		l'autre ne peut donc expliquer l'*akrasia*. Mais on peut parler en deux sens du savoir :
+		"celui qui possède la science, mais n'en fait pas usage, et celui qui en fait usage, l'un
+		et l'autre, dit-on, savent" (savoir *en puissance* et savoir *en acte*).
+		Première solution : l'intempérant a une règle générale mais ne va pas reconnaître que la
+		situation particulière se rapporte à cette règle (*manque d'attention*).
+		Deuxième solution : l'intempérant est dans un état qui fait qu'il a la science sans l'avoir, il est dans un état analogue à celui des dormeurs, des fous ou des hommes ivres (*eclipse
+		de la raison*) ; le savoir ne s'actualise pas quand bien même il est présent *en puissance*.
+		Le savoir n'est pas véritablement acquis.
+
+		Les raisonnements qui déterminent nos actions se composent implicitement de deux sortes
 		de propositions : générales (prémisses majeures) ou particulières (prémisses mineures).
 		Les prémisses générales ou universelles portent sur les fins générales de l'action
 		(*eg.* "Il ne faut pas goûter au plaisir") alors que les prémisses particulières ont trait
 		aux faits particuliers pour lesquelles la perception est maîtresse (*eg.* "telle chose
-		spéciale et particulière est douce"). Il peut alors se faire que, bien qu'ayant dans l'esprit 
-		la règle universelle nous empêchant de faire une chose, la prémisse mineure, l'opinion, 
-		nous fasse voir le plaisir à faire telle ou telle chose. L'exemple que prend Aristote est le suivant : supposons que nous ayons dans l'esprit une pensée générale nous empêchant de goûter au plaisir ainsi qu'une autre nous disant que "tout ce qui est doux est agréable à goûter" ; à ces deux pensées vient s'ajouter la proposition particulière qui nous dit que telle chose qui est sous nos yeux est douce. Se créé alors un conflit entre la partie rationnelle de l'âme, qui conclut qu'il faut fuire l'objet, et sa
-		partie irrationnelle désirante, qui nous meut dans un sens contraire. C'est alors bien l'opinion
-		de la proposition particulière qui, attisant le désir, s'oppose à la règle édictée par la raison.
+		spéciale et particulière est douce"). Il peut alors se faire que, bien qu'ayant dans l'esprit la règle universelle nous empêchant de faire une chose, la prémisse mineure, l'opinion, <u>nous fasse voir</u> le plaisir à faire telle ou telle chose. L'exemple que prend Aristote est le suivant : supposons que nous ayons dans l'esprit une pensée générale nous empêchant de goûter au plaisir ainsi qu'une autre nous disant que "tout ce qui est doux est agréable à goûter" ; à ces deux pensées vient s'ajouter la proposition particulière qui nous dit que telle chose qui est sous nos yeux est douce. Se créé alors un conflit entre la partie rationnelle de l'âme, qui conclut qu'il faut fuire l'objet, et sa
+		partie irrationnelle désirante, qui nous meut dans un sens contraire, en rapportant la
+		représentation résultatn de la sensation et du désir qu'elle produit uniquement à la prémisse universelle implicite "tout ce qui est doux est agréable à goûter", qui est accidentellement contraire à la prémisse universelle qui nous empêche de goûter au plaisir. C'est alors bien l'opinion de la proposition particulière qui, attisant le désir, s'oppose à la règle édictée par la raison.
 		
 		**Ainsi, tout en ayant connaissance de la règle générale, l'intempérant l'enfreint néanmoins car
 		la proposition particulière qui a trait à la perception attise en lui un désir contraire à la
