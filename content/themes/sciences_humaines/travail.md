@@ -18,6 +18,9 @@ date: 2018-04-24T14:46:17+02:00
 	> *entrer en travail*, c'est-à-dire commencer à éprouver
 	> les douleurs de l'enfantement)
 
+	Opposition entre un *sens étroit* : production de choses nécessaires, utiles,
+	et un *sens large* : effort.
+
 	À distinguer d'une part des occupations comme la chasse et la cueillette,
 	qui ne sont pas des activités *productrices* et, d'autre part, des activités
 	ludiques, puisque les jeux ne visent pas non plus à *produire* des oeuvres
@@ -152,6 +155,13 @@ date: 2018-04-24T14:46:17+02:00
 	> à la pauvreté. Ces contradictions le conduisent à penser la nécessité d'une destruction
 	> du capitalisme.
 
+1. Marx, <u>*Ibid.*</u>, p.163 de l'édition VRIN
+
+	***Le travail comme "essence de l'homme se vérifiant"***
+
+	Pour la première et la dernière fois, Marx reprend la proposition hégelienne selon laquelle
+	le travail constitue l'essence de l'homme.
+
 1. Marx, <u>*Le Capital*</u>, Livre I, troisième section, chapitre 7 (1867)
 
 	***L'abeille et l'architecte***
@@ -175,7 +185,7 @@ date: 2018-04-24T14:46:17+02:00
 	> mais collectif, fragmenté, répétitif, producteur d'objets identiques en nombre
 	> indéfini.
 
-1. Durkheim, <u>*De la division du travail social*</u>, Livre Premier : "La fonction de la division du travail", chapitre III : "La solidarité due à la division du travail ou organique", §4 : Conclusio
+1. Durkheim, <u>*De la division du travail social*</u>, Livre Premier : "La fonction de la division du travail", chapitre III : "La solidarité due à la division du travail ou organique", §4 : Conclusion
 
 	***La division du travail créé une solidarité sociale organique***
 
@@ -206,9 +216,16 @@ date: 2018-04-24T14:46:17+02:00
 	L'auteur distingue le travail, dont le produit est voué à la consommation et doit
 	être constamment renouvelé, et l'oeuvre, certes souvent soumise à l'usure par le fait
 	de l'usage, mais destinée à subsister. Durables, les oeuvres donnent une existence
-	objetive à un monde proprement humain qui stabilise les existences individuelles.
+	objective à un monde proprement humain qui stabilise les existences individuelles.
 
 
 ***Sujets***
 
 - Le travail, essence de l'homme ?
+
+	<u>I. Le travail *est* l'essence de l'homme</u> : il est transformation de soi, éveil d'habileté et d'intelligence, permet la reconnaissance d'autrui dans la coopération
+
+	<u>II. Le travail *n'est pas* l'essence de l'homme</u> : il est une activité à laquelle les classes dominantes et les utopies cherchent semble-t-il toujours à se soustraire (au profit par exemple d'activités autotéliques comme le jeu)
+
+	<u>III. Le travail occupe une place fondamentale dans la vie humaine mais cette importance ne
+	peut être pensée adéquatement avec le concept d'essence</u>

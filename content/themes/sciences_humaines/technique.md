@@ -27,7 +27,7 @@ Le fait que la technique se soit constituée autour de certaines connaissances
 rationnelles a des répercussions importantes sur l'activité technique. Étant,
 dans de nombreux cas, rationnellement articulée, celle-ci se traduit par des
 séquences motrices plus ou moins stéréotypées, générant chacune des effets
-réguliers, constats, et pouvant, pour cette raison, être exécutées à l'aide
+réguliers, constants, et pouvant, pour cette raison, être exécutées à l'aide
 d'outils remplaçant partiellement ou entièrement la main de l'homme --- comme
 les [machines](../machine). La technique implique donc le plus souvent l'invention et l'usage
 d'outils.
@@ -87,7 +87,7 @@ d'outils.
 
 1. Aristote, <u>*Métaphysique*</u>, A, 1, 981a13-981 b7
 
-	**La technique comme connaissance des causes***
+	***La technique comme connaissance des causes***
 
 	Dans le premier livre de sa *Métaphysique*, Aristote recense tous les domaines de la 
 	connaissance humaine. Il souligne fortement le fait que la technique repose sur des

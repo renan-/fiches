@@ -190,7 +190,7 @@ date: 2018-07-19T10:41:12+02:00
 		>
 		> Peut bien finir en nous par être la nature.
 
-	1.
+	1. xxx
 
  
 1. <u>Théorie de l'amitié</u>

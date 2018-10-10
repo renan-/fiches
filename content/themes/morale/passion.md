@@ -7,6 +7,10 @@ date: 2018-09-20T10:34:47+02:00
 
 > état ou tendance impérieux et subi durablement indépendamment de notre volonté
 
+- <u>Étymologie</u>
+
+	> *pathos*
+
 ***Références***
 
 1. Aristote, <u>*Éthique à Nicomaque*</u>, VII, 7, §4

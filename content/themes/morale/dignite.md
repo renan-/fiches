@@ -9,7 +9,7 @@ date: 2018-06-07T14:46:17+02:00
 
 ***Références***
 
-1. Auteur, <u>*Titre*</u>
+1. Kant, <u>*Fondements de la métaphysique des moeurs*</u>
 
 ***Sujets***
 
