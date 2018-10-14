@@ -106,13 +106,9 @@ date: 2018-07-19T10:41:12+02:00
 		aux faits particuliers pour lesquelles la perception est maîtresse (*eg.* "telle chose
 		spéciale et particulière est douce"). Il peut alors se faire que, bien qu'ayant dans l'esprit la règle universelle nous empêchant de faire une chose, la prémisse mineure, l'opinion, <u>nous fasse voir</u> le plaisir à faire telle ou telle chose. L'exemple que prend Aristote est le suivant : supposons que nous ayons dans l'esprit une pensée générale nous empêchant de goûter au plaisir ainsi qu'une autre nous disant que "tout ce qui est doux est agréable à goûter" ; à ces deux pensées vient s'ajouter la proposition particulière qui nous dit que telle chose qui est sous nos yeux est douce. Se créé alors un conflit entre la partie rationnelle de l'âme, qui conclut qu'il faut fuire l'objet, et sa
 		partie irrationnelle désirante, qui nous meut dans un sens contraire, en rapportant la
-		représentation résultatn de la sensation et du désir qu'elle produit uniquement à la prémisse universelle implicite "tout ce qui est doux est agréable à goûter", qui est accidentellement contraire à la prémisse universelle qui nous empêche de goûter au plaisir. C'est alors bien l'opinion de la proposition particulière qui, attisant le désir, s'oppose à la règle édictée par la raison.
+		représentation résultant de la sensation et du désir qu'elle produit uniquement à la prémisse universelle implicite "tout ce qui est doux est agréable à goûter", qui est accidentellement contraire à la prémisse universelle qui nous empêche de goûter au plaisir. C'est alors bien l'opinion de la proposition particulière qui, en se rapportant à une seule règle universelle à cause des ornières du désir sensuel qui l'accompagne, s'oppose à la règle édictée par la raison.
 		
-		**Ainsi, tout en ayant connaissance de la règle générale, l'intempérant l'enfreint néanmoins car
-		la proposition particulière qui a trait à la perception attise en lui un désir contraire à la
-		règle générale. S'explique alors le comportement du cancérologue qui fume trois paquets de
-		cigarettes par jour: il fume tout en sachant qu'il faut fuir ce qui donne le cancer et que
-		la cigarette donne le cancer.**
+		***Ainsi, tout en ayant connaissance de la règle générale, l'intempérant l'enfreint néanmoins car la proposition particulière qui a trait à la perception attise en lui un désir qui le pousse à la rapporter à une autre règle générale qui, fortuitement, lui permet de tirer une conclusion opposée à celle que la prise en compte de l'ensemble des règles générales aurait induit.*** C'est là le phénomène de l'irrationalité pratique. S'explique alors par exemple le comportement du cancérologue qui fume trois paquets de cigarettes par jour: il fume tout en sachant qu'il faut fuir ce qui donne le cancer et que la cigarette donne le cancer, puisque ce n'est pas à ces règles générales qu'il rapporte la sensation de l'odeur de la fumée mais plutôt à celle qui prescrit de rechercher tout ce qui pour lui est agréable. Son savoir n'est donc pas véritablement intégré.
 
 	1. Reprise de la question 3.2: est-il possible de dire d'une manière absolue que quelqu'un est intempérant ?
 		Ou bien tous ceux qui le sont, ne le sont-ils pas toujours d'une manière relative et particulière ? Et si
@@ -136,6 +132,13 @@ date: 2018-07-19T10:41:12+02:00
 	1. Il est moins honteux ou choquant de se laisser emporter par intempérance à la colère que de se laisser
 		dominer par ses appétits car la colère porte avec elle une certaine rationalité (dont elle procède) alors que l'appétit n'a aucun rapport avec la raison et s'élance à la jouissance dès que la sensibilité ou la raison lui dit que tel objet est agréable. Autrement dit, on peut avoir des raisons de se mettre
 		en colère même si ce n'est pas là le comportement approprié mais on n'a aucune raison de se laisser guider aveuglément par ses appétits, si ce n'est la débauche.
+
+		L'ardeur, la colère, sensible à la justice, est même plus naturelle que les appétits vulgaires.
+
+		Le caractère colérique se distingue du simple accès de colère : un homme prudent peut à la
+		rigueur avoir un accès de colère mais ne peut en aucun cas être colérique.
+
+		La colère ne calcule pas son plaisir et sa peine et c'est pourquoi elle est une *akrasia* moins laide que celle de l'intempérance.
 
 	1. L'intempérance se distingue tout d'abord de la **débauche** parce que le débauché poursuit mauvais actes
 		et excès par un choix délibéré et sans forcément y être poussé par des passions fortes, alors que l'intempérant cède à la force de ses passions, tout en sachant qu'il ne le devrait pas.

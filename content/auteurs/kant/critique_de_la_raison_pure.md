@@ -16,5 +16,7 @@ date: 2018-07-19T10:44:36+02:00
 				1. Amphibologie des concepts purs de l'entendement
 		1. Dialectique transcendantale
 			1. Usage dialectique des concepts purs de l'entendement
+			1. Antinomies de la raison pure
+			1. Idéal de la raison pure
 
 1. Théorie transcendantale de la méthode

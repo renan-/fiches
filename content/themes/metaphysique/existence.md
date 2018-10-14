@@ -9,7 +9,13 @@ date: 2018-04-20T21:02:12+02:00
 
 ***Références***
 
-1. Auteur, <u>*Titre*</u>
+1. Hume, <u>*Dialogues sur la religion naturelle*</u>
+
+	***L'existence ne se démontre pas***
+
+1. Kant, <u>*Critique de la raison pure*</u>, Dialectique transcendatale, Idéal de la raison pure
+
+	***L'existence n'est pas un prédicat réel***
 
 ***Sujets***
 
